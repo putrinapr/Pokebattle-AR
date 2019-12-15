@@ -22,15 +22,15 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-###### Pokémon 2D Sprites
+#### Pokémon 2D Sprites
 
 **Ken Sugimori** - illustrator of the original artwork for Pokémon games
 
-###### Pokémon 3D Models
+#### Pokémon 3D Models
 
-[**poke_master](https://free3d.com/user/poke_master) - 3D artist
+[**poke_master**](https://free3d.com/user/poke_master) - 3D artist
 
-###### 2D Assets
+#### 2D Assets
 
 * [**Freepik**](https://www.flaticon.com/authors/freepik) - [Reset icon](https://www.flaticon.com/free-icon/rotating-arrow-to-the-left_17071)
 * [**Freepik**](https://www.flaticon.com/authors/freepik) - [Fire icon](https://www.flaticon.com/free-icon/rotating-arrow-to-the-left_17071)
@@ -40,7 +40,7 @@ This project is licensed under the MIT License.
 * [**Freepik**](https://www.flaticon.com/authors/freepik) - [Gamepad icon](https://www.flaticon.com/free-icon/gamepad_2285844)
 * [**Those Icons**](https://www.flaticon.com/authors/those-icons) - [Pokéball](https://www.flaticon.com/free-icon/pokemon-go_813459)
 
-###### Audio
+#### Audio
 
 * [**Alivvie**](https://freesound.org/people/Alivvie/) - [Go](https://freesound.org/people/Alivvie/sounds/451272/)
 * [**plasterbrain**](https://freesound.org/people/plasterbrain/) - [Game Start](https://freesound.org/people/plasterbrain/sounds/243020/)
@@ -50,7 +50,7 @@ This project is licensed under the MIT License.
 * [**Pokémon Red and Blue Battle Theme**](https://www.youtube.com/watch?v=2Jmty_NiaXc&t=21s)
 * [**Pokémon Red and Blue Victory Theme**](https://www.youtube.com/watch?v=NFch6XO5I_c)
 
-###### Others
+#### Others
 
 * [**Tank & Healer Studio**](https://assetstore.unity.com/publishers/10612) - [Simple Health Bar FREE](https://assetstore.unity.com/packages/tools/gui/simple-health-bar-free-95420)
 * Thanks to Symefa for helping out with the game logic.
