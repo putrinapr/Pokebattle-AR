@@ -5,11 +5,11 @@ A Pokémon-inspired AR card game with the Gen 1 starters as the monsters.
 ## Deployment
 
 This repo contains the Unity project files for Pokébattle AR.
-To run the game, download and run the included APK on an Android phone (minimum Android 4.1 (Jelly Bean)).
+To run the game, download and run [this APK](https://drive.google.com/open?id=1qRktudnsHJbnKq8xbAssU53WWurrirFG) on an Android phone (running minimum Android 4.1 (Jelly Bean)).
 
 ## Built With
 
-* [Unity](https://unity3d.com/get-unity/download/archive) - The game engine used
+* [Unity](https://unity3d.com/get-unity/download/archive) - Game engine used
 * [Vuforia](https://developer.vuforia.com/downloads/sdk) - AR SDK used
 
 ## Authors
@@ -38,7 +38,7 @@ This project is licensed under the MIT License.
 * [**Freepik**](https://www.flaticon.com/authors/freepik) - [Water icon](https://www.flaticon.com/free-icon/drop_414974)
 * [**Freepik**](https://www.flaticon.com/authors/freepik) - [Sword icon](https://www.flaticon.com/free-icon/sword_2282636)
 * [**Freepik**](https://www.flaticon.com/authors/freepik) - [Gamepad icon](https://www.flaticon.com/free-icon/gamepad_2285844)
-* [**Those Icons**](https://www.flaticon.com/authors/those-icons) - [Pokéball](https://www.flaticon.com/free-icon/pokemon-go_813459)
+* [**Those Icons**](https://www.flaticon.com/authors/those-icons) - [Pokéball icon](https://www.flaticon.com/free-icon/pokemon-go_813459)
 
 ### Audio
 
