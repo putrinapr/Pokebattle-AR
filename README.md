@@ -1,6 +1,6 @@
 # Pokébattle AR
 
-*A Rock Paper Scissors Game with a Twist*
+#### *A Rock Paper Scissors Game with a Twist* ####
 
 A Pokémon-themed AR card game with the Gen 1 starters as the monsters.
 
