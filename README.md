@@ -1,11 +1,13 @@
 # Pokébattle AR
 
-A Pokémon-inspired AR card game with the Gen 1 starters as the monsters.
+*A Rock Paper Scissors Game with a Twist*
+
+A Pokémon-themed AR card game with the Gen 1 starters as the monsters.
 
 ## Deployment
 
 This repo contains the Unity project files for Pokébattle AR.
-To run the game, download and run [this APK](https://drive.google.com/open?id=1qRktudnsHJbnKq8xbAssU53WWurrirFG) on an Android phone (running minimum Android 4.1 (Jelly Bean)).
+To run the game, download and run [this APK](https://drive.google.com/open?id=1qRktudnsHJbnKq8xbAssU53WWurrirFG) on an Android phone (running minimum Android 4.1 (Jelly Bean)). You can download the cards used [here](https://drive.google.com/open?id=1O3MRIeSttnv2QCt8SVwPab_Rm74LclYU).
 
 ## Built With
 
